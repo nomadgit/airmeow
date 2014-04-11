@@ -1,0 +1,5 @@
+alias hphpd='~/dev/hhvm/hphp/hhvm/hhvm --mode debug'
+alias hphp='~/dev/hhvm/hphp/hhvm/hhvm'
+alias server='~/dev/hhvm/hphp/hhvm/hhvm --mode server -vServer.Type=fastcgi -vServer.Port=9000'
+alias client='~/dev/hhvm/hphp/hack/bin/hh_client'
+alias hhserver='~/dev/hhvm/hphp/hack/bin/hh_server'
